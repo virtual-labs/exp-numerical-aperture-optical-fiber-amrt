@@ -42,5 +42,23 @@ $$=n_{1}\sin (90-\theta_{c})$$
 
 Or $NA=n_{1}\cos \theta'_{c}$
 
+$$=n_{1}\sqrt{1-\sin^{2}\theta'_{c}}$$
+
+From equation (2) $\sin \theta'_{c}=\frac{n_{2}}{n_{1}}$
+
+Therefore,
+$$NA=n_{1}\sqrt{1-\frac{n^{2}_{2}}{n^{2}_{1}}}$$
+
+$$NA=\sqrt{n^{2}_{1}-n^{2}_{2}}$$
+
+<p>The significance of NA is that light entering in the cone of semi vertical angle i<sub>m</sub> only propagate through the fibre. The higher the value of i<sub>m</sub> or NA more is the light collected for propagation in the fibre. Numerical aperture is thus considered as a light gathering capacity of an optical fibre.</p>
+
+<p>Numerical Aperture is defined as the Sine of half&nbsp; of the angle of fibre’s light acceptance cone.&nbsp; i.e. NA= Sin θ<sub>a</sub> where θ<sub>a</sub>, is called acceptance cone angle.</p>
+
+Let the spot size of the beam at a distance d (distance between the fiber end and detector) as the radius of the spot(r). Then,
+
+$$\sin \theta=\frac{r}{\sqrt{r^{2}+d^{2}}}................(4)$$
+
+
 
 
