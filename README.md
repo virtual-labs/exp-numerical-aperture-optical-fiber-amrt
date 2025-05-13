@@ -1,18 +1,18 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b> Physical Sciences
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Laser Optics Virtual Lab
+<b> Experiment|     <b> Numerical Aperture of Optical Fiber
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+Optical fibers are fine transparent glass or plastic fibers that propagate light using the phenomenon of total internal reflection from diametrically opposite walls. In this way, light can be transmitted over long distances with minimal loss, and the flexibility of fibers allows light to be routed around curves and obstacles. This makes optical fibers ideal for communication systems, medical instruments, and sensing applications. The numerical aperture (NA) of an optical fiber is a critical parameter that defines its light-gathering ability.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Amrita Virtual Labs
 :--|:--|
-<b> Institute | <b>  
+<b> Institute | <b>  Amrita Vishwa Vidyapeetham
 <b> Email id|     <b>  
 <b> Department |  
 
@@ -20,5 +20,5 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | Mr. Saneesh P F | . | . | . | .
 2 | . | . | . | . | .
