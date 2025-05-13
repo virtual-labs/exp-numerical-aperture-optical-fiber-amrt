@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the working principle behind optical fibers?",
+      "answers": {
+        "a": "Reflection",
+        "b": "Refraction",
+        "c": "Total internal reflection",
+        "d": "Diffraction"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Total internal reflection occurs only when the angle of incidence is:",
+      "answers": {
+        "a": "Independent of critical angle",
+        "b": "Equal to critical angle",
+        "c": "Lower than critical angle",
+        "d": "Greater than critical angle"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
