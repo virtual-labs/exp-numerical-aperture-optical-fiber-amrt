@@ -2,14 +2,14 @@
 
 ### Procedure for simulator
 ### Controls 
-- **Start button**: To start the experiment.
-- **Switch on**: To switch on the Laser.
-- **Select Fiber**: To select the type of fiber used.
-- **Select Laser**: To select a different laser source.
-- **Detector distance** (Z): Use the slider to vary the distance between the source and detector. (ie toward the fiber or away from the fiber.
-- **Detector distance**(x): Use the slider to change the detector distance i.e towards left or right w.r.t the fiber.
-- **Show Graph**: To Displays the graph.
-- **Reset**: To resets the experimental arrangement.
+- **Start button**: Starts the experiment.
+- **Switch on**: Turns on the laser.
+- **Select Fiber**: Selects the type of fiber used.
+- **Select Laser**: Selects a different laser source.
+- **Detector distance** (Z): Use the slider to vary the distance between the source and the detector (i.e., toward or away from the fiber).
+- **Detector distance**(x): Use the slider to change the detector position (i.e., move left or right with respect to the fiber).
+- **Show Graph**: Displays the graph.
+- **Reset**: Resets the experimental setup.
 
 ### Preliminary Adjustment
 Drag and drop each apparatus in to the optical table as shown in the figure below. 
