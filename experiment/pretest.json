@@ -24,6 +24,42 @@
      
       "correctAnswer": "d",
       "difficulty": "beginner"
+    },
+    {
+      "question": "The sine of the angle of incidence divided by the sine of angle of refraction equals optical density is called?",
+      "answers": {
+        "a": "Newton's law",
+        "b": "Snell's law",
+        "c": "Pascal's law",
+        "d": "Bernoulli's law"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Optical fibers are often used in preference to copper wire when transmitting data. Which of the following is not a reason for the preferred use of optical fibers?",
+      "answers": {
+        "a": "Optical fibers are more durable than copper wires.",
+        "b": "Optical fibers can carry more information than copper wires.",
+        "c": "Optical fibers are cheaper than copper wires",
+        "d": "Optical fibers are better conductors of electricity than copper wires"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In refraction, when ray goes from air to glass at an angle of incidence, which one of these happens?",
+      "answers": {
+        "a": "The ray is absorbed.",
+        "b": "The angle of incidence is greater than angle of refraction.",
+        "c": "The angle of incidence is less than the angle of refraction",
+        "d": "All the ray is reflected off the surface."
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
   ]
 }
